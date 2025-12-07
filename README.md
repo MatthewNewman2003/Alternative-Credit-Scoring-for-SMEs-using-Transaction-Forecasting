@@ -20,11 +20,11 @@ If you wish to read the dissertation itself, it is contained within "Dissertatio
 
 **Code Instructions**
 
-The original datasets are contained within the folder entitled “Original Datasets”. The 
+The original datasets are contained within “Original Datasets.zip”. The 
 transaction dataset is entitled “synthetic_ob_transactions.csv”, the current accounts 
 dataset is entitled “synthetic_uk_business_current_accounts.csv”, and the SME loans 
 dataset entitled in “sme_loans_data.csv”. The post-processing datasets are contained 
-in “Post-Processing Datasets”, the errors and forecasts CSVs from the forecasting 
+in “Post-Processing Datasets.zip”, the errors and forecasts CSVs from the forecasting 
 models are in “Errors and Forecasts CSVs”, and the results CSVs are in “Results 
 CSVs”.
 
