@@ -1,5 +1,6 @@
 # Alternative-Credit-Scoring-for-SMEs-using-Transaction-Forecasting
 **Background**
+
 This repository contains the code for my MSc dissertation at Cardiff University: Alternative 
 Credit Scoring for SMEs using Transaction Forecasting.
 
@@ -18,6 +19,7 @@ credit scoring classification model, powered by XGBoost.
 If you wish to read the dissertation itself, it is contained within "Dissertation.pdf".
 
 **Code Instructions**
+
 The original datasets are contained within the folder entitled “Original Datasets”. The 
 transaction dataset is entitled “synthetic_ob_transactions.csv”, the current accounts 
 dataset is entitled “synthetic_uk_business_current_accounts.csv”, and the SME loans 
