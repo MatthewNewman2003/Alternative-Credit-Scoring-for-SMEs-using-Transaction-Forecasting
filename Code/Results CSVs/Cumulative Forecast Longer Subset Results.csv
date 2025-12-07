@@ -1,0 +1,5 @@
+﻿Model,Mean SI,Median SI
+SSA,71.7,56.6
+Prophet,44.4,27.9
+LSTM,49.2,41.2
+Naïve,28.2,15.7
